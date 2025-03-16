@@ -15,7 +15,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=punichan-en&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-- 建設中🔨
+### 🤖 LLM Journey
+LLMの可能性を探求する旅！
+各プロジェクトを通じて、LLMの実践的な活用方法を学んでいます。
+### Week 1-2: シンプルなプログラム
+- ルーレット
 
 ## 📫 How to reach me
 - [Twitter](https://x.com/Punichan_en)
