@@ -26,5 +26,5 @@
 - LLM with claude
 
 ---
-⭐️ From [あなたのユーザー名](https://github.com/punichan-en)
+⭐️ From [punichan-en](https://github.com/punichan-en)
 ```
