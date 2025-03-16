@@ -19,7 +19,7 @@
 LLMの可能性を探求する旅！
 各プロジェクトを通じて、LLMの実践的な活用方法を学んでいます。
 ### Week 1-2: シンプルなプログラム
-- ルーレット
+- [Simple Python Roulette](https://github.com/punichan-en/simple-python-roulette)
 
 ## 📫 How to reach me
 - [Twitter](https://x.com/Punichan_en)
